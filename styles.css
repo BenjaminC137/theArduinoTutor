@@ -73,3 +73,11 @@ p{
 .page-title{
   margin: 20px 5px;
 }
+.row-primary{
+  background-image: linear-gradient(to right,#e1e1e1,#fff,#fff);
+  padding: 10px;
+}
+.row-secondary{
+  background-image: linear-gradient(to left,#e1e1e1,#fff,#fff);
+  padding: 10px;
+}
