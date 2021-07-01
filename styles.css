@@ -48,6 +48,9 @@ footer{
   bottom: -7px;
   left:5px;
 }
+p{
+  text-align: left;
+}
 .p-primary{
   margin: 5px 0px;
   padding: 5px;
