@@ -1,18 +1,20 @@
+/* #e47128 orange,  #00878f dark teal*/
 html{
-  background-color: #00878f;
+  background-image: linear-gradient(to right,#e1e1e1,#fff,#fff);
 }
 
   body{
   /* font-family: sans-serif; */
   /* color: snow; */
-  background-image: linear-gradient(white, #00878f) !important;
+  /* background-image: linear-gradient(white, #00878f) !important; */
+  background-image: linear-gradient(to right,#e1e1e1,#fff,#fff)
 }
 .max1000{
   display: inline-block;
   max-width: 1000px;
 }
 h1,h2,h3,h4,h5,h6{
-  color:snow;
+  color:#e47128;
 }
 footer{
   background-color: #00878f;
@@ -58,7 +60,7 @@ footer{
   bottom: 50%;
 } */
 .bg-dark{
-  background-color: black !important;
+  background-color: #00878f !important;
 }
 .page-title{
   margin: 20px 5px;
