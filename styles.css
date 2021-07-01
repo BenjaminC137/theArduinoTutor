@@ -2,8 +2,13 @@
 html{
   background-image: linear-gradient(to right,#e1e1e1,#fff,#fff);
 }
-
-  body{
+a{
+  color:#e47128;
+}
+a:hover{
+  color: #00878f;
+}
+body{
   /* font-family: sans-serif; */
   /* color: snow; */
   /* background-image: linear-gradient(white, #00878f) !important; */
