@@ -27,8 +27,11 @@ body{
   display: inline-block;
   max-width: 1000px;
 }
-h1,h2,h3,h4,h5,h6{
+h1,h2,h3,h4,h6{
   color:#e47128;
+}
+h5{
+  color: #00878f;
 }
 footer{
   background-color: #00878f;
@@ -48,9 +51,10 @@ footer{
 }
 .info-panel{
   display: inline-block;
-  width: 50%;
+  width: 40%;
+  height: 311px;
   /* background-color: white; */
-  background-image: linear-gradient(to right,#e1e1e1,#fff,#fff);
+  /* background-image: linear-gradient(to right,#e1e1e1,#fff,#fff); */
 }
 .image-title-primary{
   position:absolute;
