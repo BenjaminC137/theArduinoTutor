@@ -8,11 +8,26 @@ a{
 a:hover{
   color: #00878f;
 }
+.a-secondary{
+  color: #00878f;
+}
+.a-secondary:hover{
+  color:#e47128;
+}
+
 body{
   /* font-family: sans-serif; */
   /* color: snow; */
   /* background-image: linear-gradient(white, #00878f) !important; */
   background-image: linear-gradient(to right,#e1e1e1,#fff,#fff)
+}
+.btn{
+  background-color: #e47128;
+  border: none;
+}
+.btn:hover{
+  background-color: #00878f;
+  border: none;
 }
 .border-radius-primary{
   border-radius: 0px;
@@ -30,7 +45,7 @@ body{
 h1,h2,h3,h4,h6{
   color:#e47128;
 }
-h5{
+h6{
   color: #00878f;
 }
 footer{
